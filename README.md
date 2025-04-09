@@ -1,4 +1,4 @@
-Esta es una prueba dee como poder subir un vide y verificar si se reproduce.
+Esta es una prueba de como poder subir un vide y verificar si se reproduce.
 
 
 
